@@ -47,6 +47,8 @@ example format: `[
     }
 ]`
 
+### Something new
+
 ### Bonus
 
 If you have time, add validation to the APIs (ajv, joi)
